@@ -1,31 +1,50 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pramilaOM/github-pramilaom/main/coderimage.png" width="150"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Pramila Yadav</h1>
-<h3 align="center">Senior Java Backend Developer | 6 years experience | Microservices | REST APIs | Cloud-ready Solutions</h3>
+<h3 align="center">Senior Java Backend Developer | 6+ years | Microservices | REST APIs | Cloud-ready Systems</h3>
 
-<img align="right" alt="developer graphic" width="400" src="https://raw.githubusercontent.com/pramilaOM/github-pramilaom/main/coderimage.png">
-
+<p align="center">
+  🔹 <a href="#about-me">About</a> • 
+  🔹 <a href="#skills--technologies">Skills</a> • 
+  🔹 <a href="#projects">Projects</a> • 
+  🔹 <a href="#-github-stats">GitHub Stats</a> • 
+  🔹 <a href="#certifications--awards">Certifications</a>
+</p>
 
 ---
 
-### 💁‍♀️ About Me:
+🧩 Backend Engineer | ☁️ Cloud-Ready Applications | 🔐 Secure API Developer  
+Delivering scalable, efficient, and well-architected systems using Java, Spring Boot, and PostgreSQL.  
+I believe in writing clean code, mentoring teams, and building products that scale.
+
+---
+
+### 🧑‍💼 About Me:
 - 💼 Senior Software Developer at Accenture (2018–2024)
 - 🧠 Exploring AI, Spring Cloud, and Advanced System Design
-- 🌐 Expertise in backend systems for insurance and financial services
+- 🏢 Worked on insurance platforms: Term Life, Whole Life, Universal Life, Critical Illness, and Annuities
 - 📫 Contact: **pramilar@buffalo.edu**
 - 🎓 MS CS @ University at Buffalo
-- 🏆 Awarded “Star Player of Sprint” for Momentum project
+- 🏆 “Star Player of Sprint” – Momentum project, Accenture
 
 ---
 
-### 🔧 Skills & Technologies:
-**Languages:** Java, Python, C, C++, JavaScript, PHP, XML  
-**Frameworks:** Spring Boot, JAX-RS, JAX-WS, OpenAPI, Bootstrap, PyTorch, TensorFlow, Scikit-learn  
-**Databases:** Oracle, SQL Server, PostgreSQL  
-**Tools:** Git, Maven, Docker, Jenkins, Android Studio  
-**Practices:** RESTful APIs, CI/CD, Agile, Microservices, TDD, Design Patterns  
+### 🧠 Skills & Technologies:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 
 ---
 
-### 💻 Connect with Me:
+### 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/pramilayadav-973697/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
@@ -37,42 +56,53 @@
 
 ---
 
-### 🧠 Projects:
+### 📂 Projects:
 
-#### 📊 TPCDS Customer Crunch and Retention Analytics (Feb 2025 – May 2025)
-- Analyzed customer DB to identify key indicators and convert to BCNF
-- Proposed retention strategies using targeted offers for high-risk customers  
+#### 📊 [TPCDS Customer Crunch and Retention Analytics](#) (Feb 2025 – May 2025)
+- Identified churn patterns and normalized DB schema (BCNF)
+- Proposed strategic retention solutions  
 **Skills:** PostgreSQL, DBMS, pgAdmin
 
-#### 🤖 Machine Learning on Real-World Datasets (Aug 2024 – Dec 2024)
-- Built and tuned ML models (LR, SVM, Naive Bayes, Decision Trees)
-- Achieved 95% accuracy with ANN/DNN/CNN + hyperparameter optimization  
-**Skills:** Python, ML, Deep Learning, Neural Networks
+#### 🤖 [ML Projects on Real Datasets](#) (Aug 2024 – Dec 2024)
+- Achieved 95% accuracy using tuned DNNs and ensemble models  
+**Skills:** Python, ML, Neural Networks
 
-#### 🌍 Sustainable Tourism Recommender (Aug 2024 – Dec 2024)
-- Used Google Maps data to create “Popular Times” datasets
-- Built webapp to suggest less crowded itineraries using ML pipelines  
-**Skills:** Python, ML, Spatial Analysis, Web Dev
+#### 🌍 [Sustainable Tourism Recommender](#) (Aug 2024 – Dec 2024)
+- Built webapp using spatial indexing & ML to reduce tourist congestion  
+**Skills:** Python, Web Dev, BallTree
 
-#### 🗣️ Text to Video Storyteller (Jun 2024 – Dec 2024)
-- Desktop app converting paragraphs to videos using NLP and TTS
-- Extracted info via NLTK and synced it with visuals and narration  
-**Skills:** Python, NLP, TTS, Multimedia Integration
+#### 🗣️ [Text to Video Storyteller](#) (Jun 2024 – Dec 2024)
+- NLP + TTS pipeline for dynamic visual storytelling  
+**Skills:** Python, NLTK, Multimedia
 
-#### 📱 Friend Finder Android App
-- Built friend locator app with Dijkstra’s algorithm & Firebase chat
-- Integrated real-time location and NoSQL backend  
-**Skills:** Java, Android, Firebase, Algorithms, REST APIs
+#### 📱 [Friend Finder Android App](#) (Jun 2023)
+- Location-aware friend tracking with Firebase chat integration  
+**Skills:** Java, Android, Dijkstra, Firebase
 
 ---
 
-### 📊 GitHub Stats:
+### 📈 GitHub Stats:
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=pramilaOM&show_icons=true&theme=tokyonight" alt="Pramila's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pramilaOM&show_icons=true&theme=default" alt="GitHub Stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramilaOM&layout=compact&theme=default" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🔥 GitHub Streak:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pramilaOM&theme=dark)](https://git.io/streak-stats)
-"""
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pramilaOM&theme=default)](https://git.io/streak-stats)
+
+---
+
+### 📜 Certifications & Awards:
+- 🥇 Scrum Foundation Professional Certificate (SFPC)
+- 🧠 Full Stack Engineer (MERN) – Accenture LKM
+- 🏆 “Star Player of Sprint” – Accenture Momentum Project
+
+---
+
+### 👁️‍🗨️ Visitor Count:
+![Visitor Count](https://komarev.com/ghpvc/?username=pramilaOM&style=flat-square)
