@@ -76,9 +76,3 @@
 ### 🔥 GitHub Streak:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pramilaOM&theme=dark)](https://git.io/streak-stats)
 """
-
-# Save the README.md
-output_path = Path("/mnt/data/README.md")
-output_path.write_text(readme_content)
-
-output_path.name
