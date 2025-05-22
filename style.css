@@ -11,20 +11,6 @@ header {
   background: #f4f4f4;
   padding: 40px 20px;
 }
-section {
-  max-width: 900px;
-  margin: 40px auto;
-  padding: 0 30px;
-  box-sizing: border-box;
-}
-
-section h2, section h3 {
-  margin-top: 0;
-  text-align: left;
-  padding-bottom: 10px;
-  border-bottom: 2px solid #ccc;
-}
-
 
 .profile-img {
   width: 150px;
@@ -64,7 +50,15 @@ nav ul li a:hover {
 section {
   max-width: 900px;
   margin: 40px auto;
-  padding: 0 20px;
+  padding: 0 30px;
+  box-sizing: border-box;
+}
+
+section h2, section h3 {
+  margin-top: 0;
+  text-align: left;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #ccc;
 }
 
 footer {
@@ -96,5 +90,9 @@ ul {
 
   .badge-img {
     height: 24px;
+  }
+
+  section {
+    padding: 0 15px;
   }
 }
