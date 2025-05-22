@@ -5,8 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Pramila Yadav | Java Backend Developer</title>
   <link rel="stylesheet" href="style.css" />
+  <script>
+    function toggleDarkMode() {
+      document.body.classList.toggle('dark-mode');
+    }
+  </script>
 </head>
 <body>
+  <button class="toggle-button" onclick="toggleDarkMode()">🌙 Toggle Mode</button>
+
   <header>
     <img src="https://raw.githubusercontent.com/pramilaOM/github-pramilaom/main/coderimage.png" alt="Pramila Yadav" class="profile-img">
     <h1>Hi 👋, I'm Pramila Yadav</h1>
@@ -20,6 +27,7 @@
       <li><a href="#projects">Projects</a></li>
       <li><a href="#stats">Stats</a></li>
       <li><a href="#certs">Certifications</a></li>
+      <li><a href="#contact">Contact</a></li>
     </ul>
   </nav>
 
@@ -39,6 +47,10 @@
       <li>🏆 “Star Player of Sprint” – Momentum project, Accenture</li>
     </ul>
   </section>
+
+  <div class="button-container">
+    <a href="Pramila_Yadav_Resume.pdf" class="resume-button" download>📄 Download My Resume</a>
+  </div>
 
   <hr>
   <section id="skills">
@@ -84,6 +96,17 @@
       <li>🧠 Full Stack Engineer (MERN) – Accenture LKM</li>
       <li>🏆 “Star Player of Sprint” – Accenture Momentum Project</li>
     </ul>
+  </section>
+
+  <hr>
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <form action="https://formspree.io/f/yourformid" method="POST">
+      <input type="text" name="name" placeholder="Your name" required>
+      <input type="email" name="email" placeholder="Your email" required>
+      <textarea name="message" placeholder="Your message" rows="5" required></textarea>
+      <button type="submit">Send</button>
+    </form>
   </section>
 
   <hr>
