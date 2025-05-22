@@ -10,7 +10,7 @@
 - 🧠 Exploring AI, Spring Cloud, and Advanced System Design
 - 🌐 Expertise in backend systems for insurance and financial services
 - 📫 Contact: **pramilar@buffalo.edu**
-- 🎓 MS CS @ University at Buffalo, SUNY (GPA 3.4/4.0) — *Dec 2025*
+- 🎓 MS CS @ University at Buffalo
 - 🏆 Awarded “Star Player of Sprint” for Momentum project
 
 ---
