@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pramila Yadav</h1>
 <h3 align="center">Senior Java Backend Developer | 6 years experience | Microservices | REST APIs | Cloud-ready Solutions</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/5277724559120450/">
+<img align="right" alt="developer graphic" width="400" src="https://raw.githubusercontent.com/pramilaOM/github-pramilaom/main/coderimage.png">
+
 
 ---
 
