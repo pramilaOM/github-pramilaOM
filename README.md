@@ -74,7 +74,7 @@
 ---
 
 ### 🔥 GitHub Streak:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pramila-yadav&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pramilaOM&theme=dark)](https://git.io/streak-stats)
 """
 
 # Save the README.md
