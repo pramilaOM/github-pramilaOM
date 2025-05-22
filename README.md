@@ -68,7 +68,7 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramila-yadav&show_icons=true&theme=tokyonight" alt="Pramila's GitHub stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=pramilaOM&show_icons=true&theme=tokyonight" alt="Pramila's GitHub stats"/>
 </p>
 
 ---
