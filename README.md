@@ -49,6 +49,13 @@ I believe in writing clean code, mentoring teams, and building products that sca
   <a href="https://www.linkedin.com/in/pramilayadav-973697/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
+  <a href="https://leetcode.com/u/pramilaom/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="leetcode" height="30" width="40" style="filter: grayscale(1);" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/pramilayad46qw/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" alt="geeksforgeeks" height="30" width="40" />
+</a>
+
   <a href="mailto:pramilar@buffalo.edu">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
   </a>
@@ -96,6 +103,11 @@ I believe in writing clean code, mentoring teams, and building products that sca
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pramilaOM&theme=default)](https://git.io/streak-stats)
 
 ---
+### 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pramilaom/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/pramilayad46qw/)
+
 
 ### 📜 Certifications & Awards:
 - 🥇 Scrum Foundation Professional Certificate (SFPC)
