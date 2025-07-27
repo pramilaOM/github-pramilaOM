@@ -31,6 +31,11 @@
 
 ---
 
+### 🌐 My Portfolio  
+🖥️ Visit: [pramilaportfolio.vercel.app](https://pramilaportfolio.vercel.app)
+
+---
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
@@ -57,29 +62,24 @@
 
 ---
 
+### 💻 Leetcode Stats  
+![LeetCode Stats](https://leetcode.card.workers.dev/pramilaom?theme=dark&font=baloo&extension=null)
+
+---
+
 ### 📊 Top Languages
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramilaOM&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 ---
+
+### 🔥 GitHub Streak  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pramilaOM&theme=dark)](https://git.io/streak-stats)
+
+---
+
 ### 🏆 GitHub Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=pramilaOM&theme=darkhub&no-bg=true&margin-w=15" />
 ---
 
 ### 📈 GitHub Activity Graph
 [![Pramila's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pramilaOM&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🌐 My Portfolio
-
-🖥️ Visit: [pramilaportfolio.vercel.app](https://pramilaportfolio.vercel.app) 
-
----
-
-### 💻 Leetcode Stats  
-![LeetCode Stats](https://leetcode.card.workers.dev/pramilaom?theme=dark&font=baloo&extension=null)
-
----
-
-### 🔥 GitHub Streak  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pramilaOM&theme=dark)](https://git.io/streak-stats)
