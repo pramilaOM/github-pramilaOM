@@ -44,25 +44,6 @@ I believe in writing clean code, mentoring teams, and building products that sca
 
 ---
 
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/pramilayadav-973697/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/pramilaom/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="leetcode" height="30" width="40" style="filter: grayscale(1);" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/pramilayad46qw/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" alt="geeksforgeeks" height="30" width="40" />
-</a>
-
-  <a href="mailto:pramilar@buffalo.edu">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ### 📂 Projects:
 
 #### 📊 [TPCDS Customer Crunch and Retention Analytics](#) (Feb 2025 – May 2025)
