@@ -73,9 +73,6 @@
 
 🖥️ Visit: [pramilaportfolio.vercel.app](https://pramilaportfolio.vercel.app) 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-informational?style=for-the-badge&logo=vercel)](https://pramilaportfolio.vercel.app)
-
-
 ---
 
 ### 💻 Leetcode Stats  
