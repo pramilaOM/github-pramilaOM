@@ -14,7 +14,7 @@
 📖 Outside of work, I enjoy reading tech blogs and exploring new productivity tools  
 
 📫 Reach me at: **pramilar@buffalo.edu**  
-📄 [Check out my resume](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
+📄 <a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto" target="_blank">Download My Resume</a>
 
 ---
 
