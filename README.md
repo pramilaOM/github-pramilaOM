@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
-:man_technologist: About Me :
+👩‍💻: About Me :
 ---
 I am a Software Engineer <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30">.
 
