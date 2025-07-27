@@ -4,7 +4,7 @@
 
 :man_technologist: About Me :
 ---
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Software Engineer <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30">.
 
 - :school: I’m currently pursuing my Master's in Computer Science from University at Buffalo (08/2024- 12/2025).
 
