@@ -29,7 +29,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 ### :computer: Leetcode Stats : 
-![LeetCode Stats](https://leetcode.card.workers.dev/kanhaiya09?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/pramilaom?theme=dark&font=baloo&extension=null)
 ---
 
 ### :fire: My Stats :
