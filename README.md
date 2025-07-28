@@ -2,6 +2,11 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
+### 🌐 My Portfolio  
+🖥️ Visit: [pramilaportfolio.vercel.app](https://pramilaportfolio.vercel.app)
+
+---
+
 ### 👩‍💻 About Me:
 ---
 🔭 I’m a Software Engineer passionate about building scalable backend systems and interactive web applications  
@@ -28,11 +33,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
-
----
-
-### 🌐 My Portfolio  
-🖥️ Visit: [pramilaportfolio.vercel.app](https://pramilaportfolio.vercel.app)
 
 ---
 
